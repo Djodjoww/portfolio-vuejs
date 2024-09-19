@@ -42,4 +42,3 @@ Pour exécuter ce projet localement, suivez ces étapes :
 ```
 
 L'application sera accessible à l'adresse : http://localhost:8080
-
