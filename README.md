@@ -19,7 +19,6 @@ Ce portfolio est une application web moderne et interactive qui permet de décou
 - **HTML5 & CSS3** : Structure et style des pages.
 - **JavaScript** : Logique interactive et animations.
 - **Vue Router** : Gestion de la navigation entre les différentes pages de l'application.
-- **GitHub Pages / Vercel / Netlify** : Déploiement de l'application.
 
 ## Installation
 
