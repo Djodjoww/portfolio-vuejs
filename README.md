@@ -24,10 +24,9 @@ Ce portfolio est une application web moderne et interactive qui permet de décou
 
 Pour exécuter ce projet localement, suivez ces étapes :
 
-1. **Clonez le dépôt :**
+1. ## Clonez le dépôt :
 ```sh
     git clone https://github.com/Djodjoww/portfolio-vuejs.git
-    cd your-repository
 ```
 2. ## Accédez au dossier du projet :
 ```
