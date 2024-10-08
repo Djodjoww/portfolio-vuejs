@@ -24,14 +24,20 @@ Ce portfolio est une application web moderne et interactive qui permet de décou
 
 Pour exécuter ce projet localement, suivez ces étapes :
 
-1. Clonez le dépôt :
-   git clone https://github.com/Djodjoww/portfolio-vuejs.git
-2. Accédez au dossier du projet :
+1. **Clonez le dépôt :**
+   ``` git clone https://github.com/Djodjoww/portfolio-vuejs.git
+2. ## Accédez au dossier du projet :
+```
    cd portfolio-vuejs
-3. Installez les dépendances :
+```
+4. ## Installez les dépendances :
+```
    npm install
-4. Démarrez le serveur de développement :
+```
+6. ## Démarrez le serveur de développement :
+```
    npm run serve
+```
 
 L'application sera accessible à l'adresse : http://localhost:8080
 
